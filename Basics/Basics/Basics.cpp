@@ -2,37 +2,22 @@
 #include <iostream>
 #include <string>
 #include <list>
+#include "animal.h"
 
 using namespace std;
-
-namespace animal{
-	class animal{
-		int id;
-		int age;
-		string name;
-	public:
-		animal(){
-			age = 0;
-			name = "";
-		};
-		animal(int a, string n){
-			age = a;
-			name = n;
-		};
-		void pee(){
-			cout << "Peeing" << endl;
-		};
-	};
-}
-
-using namespace animal;
+using namespace ani;
 
 int main(int argc, char **argv)
 {
 	cout << "Digite um valor" << endl;
-
-	int val;
+	string val;
 	cin >> val;
+
+	animal a,b;
+	a.setValue(3,"m");
+	a.pee();
+	b.poo();
+
 	system("PAUSE");
 	return 0;
 }

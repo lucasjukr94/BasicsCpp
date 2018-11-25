@@ -1,0 +1,11 @@
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenGLSharp.exe.config
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenGLSharp.exe
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenGLSharp.pdb
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenTK.dll
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenTK.pdb
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\bin\Debug\OpenTK.xml
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\obj\Debug\OpenGLSharp.csprojAssemblyReference.cache
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\obj\Debug\OpenGLSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\obj\Debug\OpenGLSharp.csproj.CopyComplete
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\obj\Debug\OpenGLSharp.exe
+C:\Users\Lucas\Downloads\BasicsCpp\Basics\OpenGLSharp\obj\Debug\OpenGLSharp.pdb
